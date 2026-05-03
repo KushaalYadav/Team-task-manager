@@ -2,7 +2,7 @@
 
 A full-stack web application designed for teams to create projects, assign tasks, and track progress with role-based access control.
 
-## 🚀 Key Features
+##  Key Features
 
 *   **Authentication:** Secure Signup & Login powered by Firebase Authentication.
 *   **Role-Based Access Control (RBAC):**
@@ -51,9 +51,9 @@ This application is configured for easy deployment on Railway:
 *   **Admin:** `Kushaalnp@gmail.com` (Any password you set during signup).
 *   **Member:** Any other email registered during signup.
 
-> Note: To test the Admin flow, simply sign up using `Kushaalnp@gmail.com`. The system automatically assigns the 'admin' role to this email. All other new signups default to 'member'.
+> Note: To test the Admin flow, simply sign up using `Kushaalnp@gmail.com`. The system automatically assigns the 'admin' role to this email. All other new signups default to 'member'. Password for admin is : "Kuku@111"
 
 ## 📦 Submission Details
 
-*   **Live URL:** *(Add your Railway URL here after deployment)*
-*   **Demo Video:** *(Add your video link here)*
+*   **Live URL:** *https://github.com/KushaalYadav/Team-task-manager*
+*   **Demo Video:** *submitted in the form *
